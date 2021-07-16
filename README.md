@@ -1,7 +1,7 @@
 # Whale-Analysis-Challenge
 Module 4 Challenge
-![](Images\13-Skeleton-pirate-lookout.png)
 
+![pirate](Images/skeleton_pirate.png)
 
 ## Purpose
 
